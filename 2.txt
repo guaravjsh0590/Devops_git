@@ -1,2 +1,3 @@
+<<<<<< HEAD
 Hello Gaurav joshi
 2.txt has been modified
